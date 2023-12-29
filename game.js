@@ -5,7 +5,7 @@ var level=0;
 
 function animatedSound(colour) {
     $('#'+colour).fadeIn(100).fadeOut(100).fadeIn(100);
-    var audio=new Audio("sounds/"+colour+".mp3");
+    var audio=new Audio(colour+".mp3");
     audio.play();  
 }
 function nextSequence() {
