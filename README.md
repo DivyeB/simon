@@ -1,2 +1,2 @@
 # simon
-In my first year, I created a memory game with JavaScript that generates random color sequences for players to remember and replicate. The project highlights my early skills in JavaScript and interactive development, though it isn't responsive.
+In my first year, I developed an interactive memory-based game using JavaScript. The game generates random color sequences utilizing arrays, challenging players to remember and replicate these sequences. I focused on creating intuitive game mechanics to enhance the user experience and engagement, making the gameplay both fun and accessible. Although the design isn't responsive, the project demonstrates my early proficiency in JavaScript and my ability to create interactive and user-centered applications.
